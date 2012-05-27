@@ -1,0 +1,9 @@
++	add component helper
++	add redbean lib
++	add agent helper
++	add action helper
++	add phake
+
+::deploy
++	config phake for deploy without local "deploy" folder
++	add db deploy
